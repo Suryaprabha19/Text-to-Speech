@@ -10,4 +10,5 @@ This is a simple **Text to Speech (TTS)** application built using Python's `Tkin
 - `pyttsx3` library
 
 Install the required library using pip:
+```bash
 pip install pyttsx3
